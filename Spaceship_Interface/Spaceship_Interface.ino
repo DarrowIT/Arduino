@@ -1,5 +1,6 @@
 int switchState = 0;
 
+// Configure pin functionality
 void setup(){
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
@@ -7,9 +8,9 @@ void setup(){
   pinMode(2, OUTPUT);
 }
 
+// Create the loop function
 void loop(){
 switchState = digitalRead(2);
-// declares state of switch variable
 
   if (switchState == LOW) {
   // the button is not pressed
@@ -17,7 +18,9 @@ switchState = digitalRead(2);
     digitalWrite(4, LOW); // red LED
     digitalWrite(5, LOW); // red LED
   }
-  else { // the button is pressed
+  
+  else {
+    // the button is pressed
     digitalWrite(3, LOW); // green LED
     digitalWrite(4, LOW); // red LED
     digitalWrite(5, HIGH); // red LED
@@ -27,5 +30,4 @@ switchState = digitalRead(2);
     digitalWrite(5, LOW);
     delay(250); // wait for a quarter second
   }
-  
 } // go back to the beginning of the loop
