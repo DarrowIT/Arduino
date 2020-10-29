@@ -1,5 +1,4 @@
 # Arduino
-My experience building the projects within the Arduino Starter Kit.
+This is a repository that was created to outline my experience building the projects within the Arduino Starter Kit. Each project below includes a brief description of the project, the source code, as well as a video demonstration showcasing the results. Hope you enjoy!
 
-## 02 Spaceship Interface
-Review source code and video demonstration on working project [here](./Spaceship_Interface)
+[## 02 Spaceship Interface](./Spaceship_Interface)
