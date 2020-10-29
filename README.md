@@ -3,4 +3,4 @@ This is a repository that I created to outline my experience building the projec
 
 [## 02 Spaceship Interface](./Spaceship_Interface)
 
-[## 03 Love-o-Meter(./Love-o-Meter)
+[## 03 Love-o-Meter](./Love-o-Meter)
