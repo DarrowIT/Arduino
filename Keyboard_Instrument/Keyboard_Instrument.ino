@@ -1,4 +1,4 @@
-// create an array of frequencies
+// Create an array of frequencies
 int notes[] = {262,294,330,349};
 
 void setup() {
