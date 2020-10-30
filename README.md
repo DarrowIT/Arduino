@@ -12,3 +12,5 @@ This is a repository that I created to outline my experience building the projec
 ## [05 Mood Cue](./Mood_Cue)
 
 ## [06 Light Theremin](./Light_Theremin)
+
+## [07 Keyboard Instrument](./Keyboard_Instrument)
