@@ -10,3 +10,5 @@ This is a repository that I created to outline my experience building the projec
 ## [04 Color Mixing Lamp](./Color_Mixing_Lamp)
 
 ## [05 Mood Cue](./Mood_Cue)
+
+## [06 Light Theramin](./Light_Theramin)
