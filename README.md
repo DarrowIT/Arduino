@@ -6,3 +6,5 @@ This is a repository that I created to outline my experience building the projec
 ## [03 Love-o-Meter](./Love-o-Meter)
 
 ## [04 Color Mixing Lamp](./Color_Mixing_Lamp)
+
+## [05 Mood Cue](./Mood_Cue)
