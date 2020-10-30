@@ -11,7 +11,7 @@ void setup() {
   pinMode(ledPin, OUTPUT);
   digitalWrite(ledPin, HIGH);
 
-// Use a while loop for calibration
+  // Use a while loop for calibration
   while (millis() < 5000) {
     
     // Compare sensor values for calibration
