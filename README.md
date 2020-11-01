@@ -18,3 +18,5 @@ This is a repository that I created to outline my experience building the projec
 ## [08 Digital Hourglass](./Digital_Hourglass)
 
 ## [09 Motorized Pinwheel](./Motorized_Pinwheel)
+
+## [10 Zoetrope](./Zoetrope)
