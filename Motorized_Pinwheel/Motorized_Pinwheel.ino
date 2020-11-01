@@ -4,11 +4,18 @@ const int motorPin = 9;
 int switchState = 0;
 
 void setup() {
-  // put your setup code here, to run once:
-
+  // Declare the pins' direction
+  pinMode(motorPin, OUTPUT);
+  pinMode(switchPin, INPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  // Read the input, pull the putput high if pressed
+  switchState = digitalRead(switchPin);
+  if (switchState == HIGH) {
+    digitalWrite(motorPin, HIGH);
+  }
+  else {
+    digitalWrite(motorPin, LOW);
+  }
 }
