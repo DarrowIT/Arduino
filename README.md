@@ -16,3 +16,5 @@ This is a repository that I created to outline my experience building the projec
 ## [07 Keyboard Instrument](./Keyboard_Instrument)
 
 ## [08 Digital Hourglass](./Digital_Hourglass)
+
+## [09 Motorized Pinwheel](./Motorized_Pinwheel)
