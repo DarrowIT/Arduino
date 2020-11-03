@@ -22,3 +22,5 @@ This is a repository that I created to outline my experience building the projec
 ## [10 Zoetrope](./Zoetrope)
 
 ## [11 Crystal Ball](./Crystal_Ball)
+
+## [Knock Lock](./Knock_Lock)
