@@ -26,3 +26,7 @@ This is a repository that I created to outline my experience building the projec
 ## [12 Knock Lock](./Knock_Lock)
 
 ## [13 Touchy-feely Lamp](./Touchy-feely_Lamp)
+
+## [14 Tweak the Logo](./Tweak_the_Logo)
+
+## [15 Hacking Buttons](./Hacking_Buttons)
