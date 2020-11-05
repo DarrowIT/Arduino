@@ -25,4 +25,4 @@ This is a repository that I created to outline my experience building the projec
 
 ## [12 Knock Lock](./Knock_Lock)
 
-## [13 Touchy-feely Lamp](./Touch-feely_Lamp)
+## [13 Touchy-feely Lamp](./Touchy-feely_Lamp)
