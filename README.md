@@ -24,3 +24,5 @@ This is a repository that I created to outline my experience building the projec
 ## [11 Crystal Ball](./Crystal_Ball)
 
 ## [12 Knock Lock](./Knock_Lock)
+
+## [13 Touchy-feely Lamp](./Touch-feely_Lamp)
